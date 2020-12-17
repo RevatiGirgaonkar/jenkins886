@@ -10,6 +10,8 @@ namespace jenkins1
     {
         static void Main(string[] args)
         {
+            Console.Writeline("Welcome to jenkins");
+            
         }
     }
 }
